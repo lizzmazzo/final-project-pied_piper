@@ -1,0 +1,1 @@
+-- Migration: create follows table for directed user follow relationships.

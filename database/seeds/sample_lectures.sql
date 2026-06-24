@@ -1,0 +1,1 @@
+-- Seed data: sample university lecture syllabus entries for development and testing.

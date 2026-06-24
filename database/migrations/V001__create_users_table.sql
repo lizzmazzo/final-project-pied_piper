@@ -1,0 +1,1 @@
+-- Migration: create users table with university email, password hash, and email_verified flag.

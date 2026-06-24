@@ -1,0 +1,1 @@
+# User-agent rules and sitemap reference for the LecturBoxd public site.

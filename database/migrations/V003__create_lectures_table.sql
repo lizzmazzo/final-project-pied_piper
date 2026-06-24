@@ -1,0 +1,1 @@
+-- Migration: create lectures table for university syllabus catalog entries.

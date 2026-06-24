@@ -1,0 +1,1 @@
+-- Migration: create reviews table for star-rated written lecture reviews.

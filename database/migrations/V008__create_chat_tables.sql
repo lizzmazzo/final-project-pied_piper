@@ -1,0 +1,1 @@
+-- Migration: create conversations and chat_messages tables for user-to-user messaging.

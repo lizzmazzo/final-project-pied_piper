@@ -1,0 +1,1 @@
+-- Migration: create lecture_logs table recording user attendance of lectures.

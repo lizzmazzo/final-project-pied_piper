@@ -1,0 +1,1 @@
+-- Migration: create otp_verifications table for pending 6-digit email verification codes.
